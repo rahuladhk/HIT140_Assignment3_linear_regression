@@ -1,0 +1,105 @@
+match_id,stage,match_date,home_team,away_team,home_goals,away_goals
+1,Group stage,2026-06-11,Mexico,South Africa,2,0
+2,Group stage,2026-06-11,Korea Republic,Czechia,2,1
+3,Group stage,2026-06-12,Canada,Bosnia–Herz,1,1
+4,Group stage,2026-06-12,USA,Paraguay,4,1
+5,Group stage,2026-06-13,Qatar,Switzerland,1,1
+6,Group stage,2026-06-13,Brazil,Morocco,1,1
+7,Group stage,2026-06-13,Australia,Türkiye,2,0
+8,Group stage,2026-06-13,Haiti,Scotland,0,1
+9,Group stage,2026-06-14,Germany,Curaçao,7,1
+10,Group stage,2026-06-14,Netherlands,Japan,2,2
+11,Group stage,2026-06-14,Côte d'Ivoire,Ecuador,1,0
+12,Group stage,2026-06-14,Sweden,Tunisia,5,1
+13,Group stage,2026-06-15,Belgium,Egypt,1,1
+14,Group stage,2026-06-15,Spain,Cabo Verde,0,0
+15,Group stage,2026-06-15,Saudi Arabia,Uruguay,1,1
+16,Group stage,2026-06-15,IR Iran,New Zealand,2,2
+17,Group stage,2026-06-16,France,Senegal,3,1
+18,Group stage,2026-06-16,Iraq,Norway,1,4
+19,Group stage,2026-06-16,Argentina,Algeria,3,0
+20,Group stage,2026-06-16,Austria,Jordan,3,1
+21,Group stage,2026-06-17,Portugal,Congo DR,1,1
+22,Group stage,2026-06-17,England,Croatia,4,2
+23,Group stage,2026-06-17,Ghana,Panama,1,0
+24,Group stage,2026-06-17,Uzbekistan,Colombia,1,3
+25,Group stage,2026-06-18,Czechia,South Africa,1,1
+26,Group stage,2026-06-18,Switzerland,Bosnia–Herz,4,1
+27,Group stage,2026-06-18,Canada,Qatar,6,0
+28,Group stage,2026-06-18,Mexico,Korea Republic,1,0
+29,Group stage,2026-06-19,USA,Australia,2,0
+30,Group stage,2026-06-19,Scotland,Morocco,0,1
+31,Group stage,2026-06-19,Türkiye,Paraguay,0,1
+32,Group stage,2026-06-19,Brazil,Haiti,3,0
+33,Group stage,2026-06-20,Netherlands,Sweden,5,1
+34,Group stage,2026-06-20,Germany,Côte d'Ivoire,2,1
+35,Group stage,2026-06-20,Ecuador,Curaçao,0,0
+36,Group stage,2026-06-20,Tunisia,Japan,0,4
+37,Group stage,2026-06-21,Spain,Saudi Arabia,4,0
+38,Group stage,2026-06-21,Belgium,IR Iran,0,0
+39,Group stage,2026-06-21,Uruguay,Cabo Verde,2,2
+40,Group stage,2026-06-21,New Zealand,Egypt,1,3
+41,Group stage,2026-06-22,Argentina,Austria,2,0
+42,Group stage,2026-06-22,France,Iraq,3,0
+43,Group stage,2026-06-22,Norway,Senegal,3,2
+44,Group stage,2026-06-22,Jordan,Algeria,1,2
+45,Group stage,2026-06-23,Portugal,Uzbekistan,5,0
+46,Group stage,2026-06-23,England,Ghana,0,0
+47,Group stage,2026-06-23,Panama,Croatia,0,1
+48,Group stage,2026-06-23,Colombia,Congo DR,1,0
+49,Group stage,2026-06-24,Switzerland,Canada,2,1
+50,Group stage,2026-06-24,Bosnia–Herz,Qatar,3,1
+51,Group stage,2026-06-24,Scotland,Brazil,0,3
+52,Group stage,2026-06-24,Morocco,Haiti,4,2
+53,Group stage,2026-06-24,South Africa,Korea Republic,1,0
+54,Group stage,2026-06-24,Czechia,Mexico,0,3
+55,Group stage,2026-06-25,Curaçao,Côte d'Ivoire,0,2
+56,Group stage,2026-06-25,Ecuador,Germany,2,1
+57,Group stage,2026-06-25,Tunisia,Netherlands,1,3
+58,Group stage,2026-06-25,Japan,Sweden,1,1
+59,Group stage,2026-06-25,Türkiye,USA,3,2
+60,Group stage,2026-06-25,Paraguay,Australia,0,0
+61,Group stage,2026-06-26,Norway,France,1,4
+62,Group stage,2026-06-26,Senegal,Iraq,5,0
+63,Group stage,2026-06-26,Uruguay,Spain,0,1
+64,Group stage,2026-06-26,Cabo Verde,Saudi Arabia,0,0
+65,Group stage,2026-06-26,Egypt,IR Iran,1,1
+66,Group stage,2026-06-26,New Zealand,Belgium,1,5
+67,Group stage,2026-06-27,Croatia,Ghana,2,1
+68,Group stage,2026-06-27,Panama,England,0,2
+69,Group stage,2026-06-27,Congo DR,Uzbekistan,3,1
+70,Group stage,2026-06-27,Colombia,Portugal,0,0
+71,Group stage,2026-06-27,Jordan,Argentina,1,3
+72,Group stage,2026-06-27,Algeria,Austria,3,3
+73,Round of 32,2026-06-28,South Africa,Canada,0,1
+74,Round of 32,2026-06-29,Brazil,Japan,2,1
+75,Round of 32,2026-06-29,Germany,Paraguay,1,1
+76,Round of 32,2026-06-29,Netherlands,Morocco,1,1
+77,Round of 32,2026-06-30,Côte d'Ivoire,Norway,1,2
+78,Round of 32,2026-06-30,France,Sweden,3,0
+79,Round of 32,2026-06-30,Mexico,Ecuador,2,0
+80,Round of 32,2026-07-01,England,Congo DR,2,1
+81,Round of 32,2026-07-01,Belgium,Senegal,3,2
+82,Round of 32,2026-07-01,USA,Bosnia–Herz,2,0
+83,Round of 32,2026-07-02,Spain,Austria,3,0
+84,Round of 32,2026-07-02,Portugal,Croatia,2,1
+85,Round of 32,2026-07-02,Switzerland,Algeria,2,0
+86,Round of 32,2026-07-03,Australia,Egypt,1,1
+87,Round of 32,2026-07-03,Argentina,Cabo Verde,3,2
+88,Round of 32,2026-07-03,Colombia,Ghana,1,0
+89,Round of 16,2026-07-04,Canada,Morocco,0,3
+90,Round of 16,2026-07-04,Paraguay,France,0,1
+91,Round of 16,2026-07-05,Brazil,Norway,1,2
+92,Round of 16,2026-07-05,Mexico,England,2,3
+93,Round of 16,2026-07-06,Portugal,Spain,0,1
+94,Round of 16,2026-07-06,USA,Belgium,1,4
+95,Round of 16,2026-07-07,Argentina,Egypt,3,2
+96,Round of 16,2026-07-07,Switzerland,Colombia,0,0
+97,Quarter-finals,2026-07-09,France,Morocco,2,0
+98,Quarter-finals,2026-07-10,Spain,Belgium,2,1
+99,Quarter-finals,2026-07-11,Norway,England,1,2
+100,Quarter-finals,2026-07-11,Argentina,Switzerland,3,1
+101,Semi-finals,2026-07-14,France,Spain,0,2
+102,Semi-finals,2026-07-15,England,Argentina,1,2
+103,Third-place match,2026-07-18,France,England,4,6
+104,Final,2026-07-19,Spain,Argentina,1,0

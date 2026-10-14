@@ -1,0 +1,10 @@
+term,coefficient
+intercept,1.5516167335088795
+team_avg_goals_scored_before,0.30136611882885256
+team_avg_goals_conceded_before,-0.29849792136733133
+team_goal_difference_before,0.02932526787205562
+team_win_rate_before,-1.1275067446461708
+opponent_avg_goals_scored_before,0.31845840255269386
+opponent_avg_goals_conceded_before,-0.03805522767811699
+opponent_goal_difference_before,-0.1887745467613783
+opponent_win_rate_before,-0.3686767549109984
